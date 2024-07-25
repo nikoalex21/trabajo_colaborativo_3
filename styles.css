@@ -1,8 +1,21 @@
-body{
-    background-color: brown;
-    color: black;
+body {
+    background-color: #f0f8ff; /* AliceBlue */
+    color: #333; /* Dark Gray */
 }
-h1{
-    background-color: black;
-    color: blue;
+h1 {
+    background-color: #4682b4; /* SteelBlue */
+    color: #ffffff; /* White */
+}
+ul {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    
+}
+a {
+    color: #1e90ff; /* DodgerBlue */
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #104e8b; /* Dark DodgerBlue */
 }
